@@ -1,5 +1,5 @@
 #Salaa -aliohjelmassa on kaytetty lahteena osoitteessa http://edu.pegax.com/doku.php?id=tietoturva:harjoitukset2011:aes_crypt.py olevaa koodia
-#Allekirjoituksen luomisessa ja varmistamisessa on kaytetty lahteena kurssin harjoitusmateriaalia
+
 import sys, os,random, struct
 from Crypto.Cipher import AES
 import base64
